@@ -7,9 +7,12 @@ Responsive Design: The layout adapts seamlessly to different screen sizes, provi
 Smooth Scrolling: Scrolling through the website is smooth and seamless.
 Technologies Used
 HTML: Structure and content of the website.
-CSS: 
+CSS:
+
 - Styling and design, including responsive layout.
 - Linear gradients for background transitions.
 - Flexbox for layout alignment.
 - Hover effects for interactive elements.
 - Media queries for responsive design.
+
+https://davidviki.github.io/motorcycleShowcase/
